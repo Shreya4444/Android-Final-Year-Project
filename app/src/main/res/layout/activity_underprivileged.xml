@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_underprivileged"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.technotalkative.beproject.Underprivileged">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="2dp"
+        android:weightSum="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:text="Profile Picture"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/profile"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_alignParentTop="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black" />
+
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:id="@+id/uprofile_pic"
+            android:background="@android:drawable/alert_light_frame"
+            android:saveEnabled="true"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:text="Request Storage Permission"
+            android:src="@drawable/camera" />
+
+        <TextView
+            android:text="Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tname"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/uname"
+            android:hint="Full name"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:text="Username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tusername"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/uusername"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt" />
+
+        <TextView
+            android:text="Password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tpassword"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textPassword"
+            android:id="@+id/upassword"
+            android:hint="more then 8 letters with special characters"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"/>
+
+
+        <TextView
+            android:text="Address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tmale"
+            android:layout_below="@+id/male"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:id="@+id/uaddress"
+            android:inputType="textMultiLine"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:text="Email ID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/temail"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="abc@xyz.com"
+            android:id="@+id/uemail"
+            android:inputType="textEmailAddress"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4dp"/>
+
+        <TextView
+            android:text="Phone No"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tphone_no"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="987654321"
+            android:id="@+id/uphone_no"
+            android:inputType="number"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DOB"
+            android:id="@+id/tdob"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="dd-mm-yyyy"
+            android:inputType="date"
+            android:id="@+id/udob"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Occupation"
+            android:id="@+id/toccu"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/uoccu"
+            android:inputType="textPersonName"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-4dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textSize="25dp"
+                android:layout_weight="1"
+                android:padding="5dp"
+                android:text="Gender :"
+                android:id="@+id/tgender"
+                android:layout_marginTop="4dp"
+                android:textColor="@android:color/background_dark"/>
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/tgender"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                android:id="@+id/uradio_group">
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ugender_male"
+                    android:text="Male"
+                    android:checked="true"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ugender_female"
+                    android:text="Female"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+            </RadioGroup>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Qualification"
+            android:id="@+id/tquali"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/uquali"
+            android:inputType="textPersonName"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Annual Income"
+            android:id="@+id/tincome"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/uincome"
+            android:inputType="number"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pan Card"
+            android:id="@+id/tpan"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/upan"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aadhar Card"
+            android:id="@+id/taadhar"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/uaadhar"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ration/Gas/Telephone/Electricity/Passport"
+            android:id="@+id/tbill"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/upassport"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/uregister"
+            android:text="Register"
+            android:layout_gravity="center"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

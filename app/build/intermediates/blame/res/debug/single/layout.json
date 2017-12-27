@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_hospital.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_choose_hospital.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hphospital.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_hphospital.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_home.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hosp__hp.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_hosp__hp.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_indi.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_list_indi.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hpeducation.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_hpeducation.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hospital.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_hospital.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_education.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_education.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_indi.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_detail_indi.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_ngo.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_list_ngo.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_n.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_detail_n.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_indi.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_choose_indi.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\model_ngo.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\model_ngo.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ngo.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_ngo.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_uphospital.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_uphospital.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_homeh.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\content_homeh.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_homen.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\app_bar_homen.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_education.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_choose_education.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\model_indi.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\model_indi.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_homeh.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\app_bar_homeh.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home_ngo.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\content_home_ngo.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_indi__up.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_indi__up.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_upindividual.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_upindividual.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_underprivileged.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_underprivileged.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\model_hospital.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\model_hospital.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\swipe.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hosp__up.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_hosp__up.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_indi__hp.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_indi__hp.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_homei.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\nav_header_homei.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_home.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_helpus.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_helpus.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_individual.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_individual.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_homei.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\content_homei.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_homei.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\app_bar_homei.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_upngo.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_upngo.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ngo__up.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_ngo__up.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_hospital.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_list_hospital.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hpindividual.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_hpindividual.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_hospital.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_detail_hospital.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ngo__hp.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_ngo__hp.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\model_edu.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\model_edu.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helpus.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_helpus.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edu__up.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_edu__up.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_upeducation.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_upeducation.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edu__hp.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_edu__hp.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_homen.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\nav_header_homen.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_homeh.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\nav_header_homeh.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_ngo.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_choose_ngo.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hpngo.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\fragment_hpngo.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_edu.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\layout\\activity_list_edu.xml"
+    }
+]

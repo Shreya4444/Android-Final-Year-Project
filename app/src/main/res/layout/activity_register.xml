@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/back_asso"
+        tools:context="com.technotalkative.beproject.Register"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_register"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Type of Association:"
+            style="@style/Base.TextAppearance.AppCompat.Large"
+            android:layout_gravity="center"
+            android:layout_marginTop="100dp"
+            android:textStyle="bold"
+            android:textSize="30dp"
+            />
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            >
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/education"
+                android:text="Education"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"
+                android:textSize="25dp"></RadioButton>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ngo"
+                android:text="NGO"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"
+                android:textSize="25dp"></RadioButton>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/individual"
+                android:text="Individual"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="20dp"></RadioButton>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hospital"
+                android:text="Hospital"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="20dp"></RadioButton>
+
+
+        </RadioGroup>
+
+    </LinearLayout>
+

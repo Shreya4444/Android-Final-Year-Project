@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:fillViewport="false"
+    tools:context="com.technotalkative.beproject.Education.Edu_HP">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:padding="2dp"
+        android:background="@drawable/background_e">
+
+        <TextView
+            android:text="Institute Profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/eprofile"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_alignParentTop="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black" />
+
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:id="@+id/e1profile_pic"
+            android:background="@android:drawable/alert_light_frame"
+            android:saveEnabled="true"
+            android:layout_gravity="center"
+            android:text="Request Storage Permission"
+            android:src="@drawable/camera"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:id="@+id/tname"
+            android:padding="5dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:textColor="@android:color/background_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint=" Full name"
+            android:id="@+id/e1name"
+            android:background="@android:drawable/alert_light_frame"
+            android:textSize="10pt"
+            android:layout_marginLeft="-4pt"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="Username"
+            android:id="@+id/tuser"
+            android:layout_marginTop="4dp"
+            android:textColor="@android:color/background_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/e1username"
+            android:textSize="10pt"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="Password"
+            android:id="@+id/tpass"
+            android:layout_marginTop="4dp"
+            android:textColor="@android:color/background_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/e1password"
+            android:hint="more then 8 letters with special characters"
+            android:textSize="10pt"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="Address"
+            android:id="@+id/taddr"
+            android:layout_marginTop="4dp"
+            android:textColor="@android:color/background_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/e1address"
+            android:textSize="10pt"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:text="Email Id"
+            android:id="@+id/temail"
+            android:layout_marginTop="4dp"
+            android:padding="5dp"
+            android:textColor="@android:color/background_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/e1email"
+            android:hint="abc@xyz.com"
+            android:textSize="10pt"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="Phone No"
+            android:id="@+id/tphone"
+            android:layout_marginTop="4dp"
+            android:textColor="@android:color/background_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/e1phone"
+            android:hint="987654321"
+            android:textSize="10pt"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="Website"
+            android:id="@+id/twebs"
+            android:layout_marginTop="4dp"
+            android:textColor="@android:color/background_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textWebEmailAddress"
+            android:id="@+id/e1website"
+            android:textSize="10pt"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="Funding Amount"
+            android:id="@+id/tamount"
+            android:layout_marginTop="4dp"
+            android:textColor="@android:color/background_dark" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:id="@+id/e1amount"
+            android:textSize="10pt"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PAN Card"
+            android:layout_marginTop="4dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:id="@+id/tpan"
+            android:textColor="@android:color/background_dark" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/e1pan"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aadhar Card"
+            android:id="@+id/taadhar"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="@android:color/black"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:layout_marginTop="4dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/e1aadhar"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Govt authorized Certificate of Institute"
+            android:layout_marginTop="4dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="25dp"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:id="@+id/tcertificate"
+            android:textColor="@android:color/background_dark" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/e1certificate"
+            android:background="@android:drawable/alert_light_frame"
+            android:layout_marginLeft="-4pt"/>
+
+        <Button
+            android:id="@+id/e1register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+</ScrollView>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/edu_background"
+        tools:context="com.technotalkative.beproject.Education.Education"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What do you want to do in Education?"
+            style="@style/Base.TextAppearance.AppCompat.Large"
+            android:layout_marginTop="50dp"
+            android:textColor="@android:color/white"
+            android:textSize="25dp"
+            android:layout_marginLeft="20dp"
+            />
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp">
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/edu1"
+                android:text="Provide Help"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="20dp"
+                android:textColor="@android:color/white"></RadioButton>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/edu2"
+                android:text="Seek Help"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="20dp"
+                android:textColor="@android:color/white"></RadioButton>
+        </RadioGroup>
+    </LinearLayout>
+

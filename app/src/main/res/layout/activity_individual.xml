@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.technotalkative.beproject.Individual.Individual"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+   >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What do you want to do as Individual?"
+            style="@style/Base.TextAppearance.AppCompat.Large"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            />
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/indi1"
+                android:text="Provide Help"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="30dp"
+                ></RadioButton>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/indi2"
+                android:text="Seek Help"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="30dp"></RadioButton>
+
+        </RadioGroup>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+       android:src="@drawable/indi2"/>
+
+    </LinearLayout>

@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:2:1-119:12
+	package
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:multidex:1.0.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.7] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.7\AndroidManifest.xml:6:5-8:41
+MERGED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:9:5-68
+MERGED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:9:22-65
+uses-feature#android.hardware.camera
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:14:5-81
+MERGED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:16:5-67
+MERGED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:17:22-72
+application
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:19:5-117:19
+MERGED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:15:5-21:19
+MERGED from [com.android.support:design:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.3.0] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:25:9-35
+	android:hardwareAccelerated
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:22:9-43
+	android:exported
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:21:9-32
+	android:allowBackup
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:26:9-52
+activity#com.technotalkative.beproject.MainActivity
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.technotalkative.beproject.Education.Education
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:35:9-37:40
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:37:13-38
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:35:19-54
+activity#com.technotalkative.beproject.Login
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:38:9-40:46
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:40:13-44
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:38:19-40
+activity#com.technotalkative.beproject.Register
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:41:9-43:42
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:43:13-40
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:41:19-43
+activity#com.technotalkative.beproject.Individual.Individual
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:44:9-46:41
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:46:13-39
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:44:19-56
+activity#com.technotalkative.beproject.NGO.Ngo
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:47:9-49:34
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:49:13-32
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:47:19-42
+activity#com.technotalkative.beproject.Hospital.Hospital
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:50:9-52:39
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:52:13-37
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:51:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:50:19-52
+activity#com.technotalkative.beproject.Hospital.Hosp_HP
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:55:9-57:44
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:57:13-42
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:55:19-51
+activity#com.technotalkative.beproject.Hospital.Hosp_UP
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:58:9-60:42
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:60:13-40
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:58:19-51
+activity#com.technotalkative.beproject.Hospital.DetailActivity_hospital
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:61:9-63:38
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:63:13-36
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:61:19-67
+activity#com.technotalkative.beproject.Hospital.Choose_hospital
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:64:9-62
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:64:19-59
+activity#com.technotalkative.beproject.Hospital.List_hospital
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:65:9-67:35
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:67:13-33
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:66:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:65:19-57
+activity#com.technotalkative.beproject.Education.Edu_HP
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:69:9-71:44
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:71:13-42
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:69:19-51
+activity#com.technotalkative.beproject.Education.Edu_UP
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:72:9-74:42
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:74:13-40
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:72:19-51
+activity#com.technotalkative.beproject.Education.DetailActivity_edu
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:75:9-77:48
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:77:13-36
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:76:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:75:19-63
+activity#com.technotalkative.beproject.Education.Choose_edu
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:78:9-67
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:78:19-55
+activity#com.technotalkative.beproject.Education.List_edu
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:79:9-81:45
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:81:13-33
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:79:19-53
+activity#com.technotalkative.beproject.NGO.NGO_HP
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:83:9-85:44
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:85:13-42
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:84:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:83:19-45
+activity#com.technotalkative.beproject.NGO.NGO_UP
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:86:9-88:42
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:88:13-40
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:86:19-45
+activity#com.technotalkative.beproject.NGO.DetailActivity_ngo
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:89:9-91:38
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:91:13-36
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:90:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:89:19-57
+activity#com.technotalkative.beproject.NGO.Choose_ngo
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:92:9-51
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:92:19-49
+activity#com.technotalkative.beproject.NGO.List_ngo
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:93:9-95:35
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:95:13-33
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:94:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:93:19-47
+activity#com.technotalkative.beproject.Individual.Indi_HP
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:97:9-99:44
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:99:13-42
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:98:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:97:19-53
+activity#com.technotalkative.beproject.Individual.Indi_UP
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:100:9-102:42
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:102:13-40
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:100:19-53
+activity#com.technotalkative.beproject.Individual.DetailActivity_indi
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:103:9-105:48
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:105:13-36
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:104:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:103:19-65
+activity#com.technotalkative.beproject.Individual.Choose_indi
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:106:9-69
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:106:19-57
+activity#com.technotalkative.beproject.Individual.List_indi
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:107:9-109:45
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:109:13-33
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:108:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:107:19-55
+activity#com.technotalkative.beproject.About
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:110:9-112:45
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:112:13-33
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:111:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:110:19-40
+activity#com.technotalkative.beproject.Helpus
+ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:113:9-115:45
+	android:label
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:115:13-33
+	android:theme
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:114:13-44
+	android:name
+		ADDED from F:\Android Projects\BEProject\app\src\main\AndroidManifest.xml:113:19-41
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:16:9-20:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [net.gotev:uploadservice:2.1] F:\Android Projects\BEProject\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\AndroidManifest.xml:17:13-65

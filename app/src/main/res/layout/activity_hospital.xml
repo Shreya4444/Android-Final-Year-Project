@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="com.technotalkative.beproject.Hospital.Hospital"
+    android:background="@drawable/dna1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What do you want to do in Hospital?"
+            style="@style/Base.TextAppearance.AppCompat.Large"
+            android:layout_marginTop="40dp"
+            android:textSize="25dp"
+            android:layout_marginLeft="20dp"
+            />
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/hradiogroup">
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hosp1"
+                android:text="Provide Help"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="40dp"
+                ></RadioButton>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hosp2"
+                android:text="Seek Help"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                android:padding="20dp"
+                android:layout_marginLeft="40dp"></RadioButton>
+
+        </RadioGroup>
+
+    </LinearLayout>
+

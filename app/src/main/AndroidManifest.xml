@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.technotalkative.beproject"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:exported="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Education.Education"
+            android:theme="@style/AppTheme"
+            android:label="Education"/>
+        <activity android:name=".Login"
+            android:theme="@style/AppTheme"
+            android:label="Sign In/Sign Up"/>
+        <activity android:name=".Register"
+            android:theme="@style/AppTheme"
+            android:label="Association"/>
+        <activity android:name=".Individual.Individual"
+            android:theme="@style/AppTheme"
+            android:label="Individual"/>
+        <activity android:name=".NGO.Ngo"
+            android:theme="@style/AppTheme"
+            android:label="Ngo"/>
+        <activity android:name=".Hospital.Hospital"
+            android:theme="@style/AppTheme"
+            android:label="Hospital"/>
+
+
+        <activity android:name=".Hospital.Hosp_HP"
+            android:theme="@style/AppTheme"
+            android:label="Help provider"/>
+        <activity android:name=".Hospital.Hosp_UP"
+            android:theme="@style/AppTheme"
+            android:label="Help Seeker"/>
+        <activity android:name=".Hospital.DetailActivity_hospital"
+            android:theme="@style/AppTheme"
+            android:label="Details"/>
+        <activity android:name=".Hospital.Choose_hospital" />
+        <activity android:name=".Hospital.List_hospital"
+            android:theme="@style/AppTheme"
+            android:label="List"/>
+
+        <activity android:name=".Education.Edu_HP"
+            android:theme="@style/AppTheme"
+            android:label="Help Provider"/>
+        <activity android:name=".Education.Edu_UP"
+            android:theme="@style/AppTheme"
+            android:label="Help Seeker"/>
+        <activity android:name=".Education.DetailActivity_edu"
+            android:theme="@style/AppTheme"
+            android:label="Details"></activity>
+        <activity android:name=".Education.Choose_edu"></activity>
+        <activity android:name=".Education.List_edu"
+            android:theme="@style/AppTheme"
+            android:label="List"></activity>
+
+        <activity android:name=".NGO.NGO_HP"
+            android:theme="@style/AppTheme"
+            android:label="Help Provider"/>
+        <activity android:name=".NGO.NGO_UP"
+            android:theme="@style/AppTheme"
+            android:label="Help Seeker"/>
+        <activity android:name=".NGO.DetailActivity_ngo"
+            android:theme="@style/AppTheme"
+            android:label="Details"/>
+        <activity android:name=".NGO.Choose_ngo"/>
+        <activity android:name=".NGO.List_ngo"
+            android:theme="@style/AppTheme"
+            android:label="List"/>
+
+        <activity android:name=".Individual.Indi_HP"
+            android:theme="@style/AppTheme"
+            android:label="Help Provider"/>
+        <activity android:name=".Individual.Indi_UP"
+            android:theme="@style/AppTheme"
+            android:label="Help Seeker"/>
+        <activity android:name=".Individual.DetailActivity_indi"
+            android:theme="@style/AppTheme"
+            android:label="Details"></activity>
+        <activity android:name=".Individual.Choose_indi"></activity>
+        <activity android:name=".Individual.List_indi"
+            android:theme="@style/AppTheme"
+            android:label="List"></activity>
+        <activity android:name=".About"
+            android:theme="@style/AppTheme"
+            android:label="List"></activity>
+        <activity android:name=".Helpus"
+            android:theme="@style/AppTheme"
+            android:label="List"></activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_i.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\background_i.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a4.gif",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a4.gif"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_education1.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_launcher_education1.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_individual.png",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_launcher_individual.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_edittext_shape.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\my_edittext_shape.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_education.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_launcher_education.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedbutton.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fruits.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\fruits.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a9.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a9.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_black_24dp.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_underprivilege.png",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_launcher_underprivilege.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a5.png",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a5.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indi2.jpeg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\indi2.jpeg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edu1c.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\edu1c.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a10.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a10.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a1.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dna1.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\dna1.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a7.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a7.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\placeholder.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\camera.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\load.gif",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\load.gif"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\charii.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\charii.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_asso.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\back_asso.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\purple.jpeg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\purple.jpeg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeicon.png",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\homeicon.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a2.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\help.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a6.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a6.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospi__tal.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\hospi__tal.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a12.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a12.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indi_back.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\indi_back.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hands.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\hands.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a3.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\user.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_hospital1.png",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_launcher_hospital1.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edu_background.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\edu_background.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vinback.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\vinback.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sync_black_24dp.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_n.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\background_n.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picture11.gif",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\picture11.gif"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a8.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\a8.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images.jpg",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_h.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\background_h.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_hospital.png",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_launcher_hospital.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_ngo.png",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\ic_launcher_ngo.png"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_e.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\background_e.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    }
+]

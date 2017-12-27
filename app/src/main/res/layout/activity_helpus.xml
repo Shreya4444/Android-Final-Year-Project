@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/help"
+    android:layout_gravity="center">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+       >
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="How to use the app"
+    android:textSize="35dp"
+    android:textAlignment="center"
+    android:textColor="@android:color/holo_red_dark"
+    android:textStyle="bold" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="The app is simple UI Interface where user will first have to register on the app and can login by providing the credentials such as username,password and association type.
+The association type of the user with the application can be Education/Ngo/Hospital/Individual. After selecting the association type, user will have to choose whether he wants to provide help/seek help and will have to fill the registration forms accordingly.
+After registering ,the user can conveniently browse the offerings and can seek the help accordingly.
+User can successfully Login and Logout the application any moment when the user wish to exit.
+"
+  android:textSize="25dp"
+    android:textAlignment="viewStart"
+    android:layout_marginLeft="10dp"/>
+        <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+            android:text="CONTACT US"
+            android:textAlignment="center"
+            android:textSize="35dp"
+            android:textColor="@android:color/holo_red_dark"
+            android:textStyle="bold"
+    />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lucky-9769321803"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Shreya-8082000016"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dipti-9821360590"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Husena-9167137029"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+</ScrollView>

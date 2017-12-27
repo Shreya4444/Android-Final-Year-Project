@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_draweri.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\menu\\activity_home_draweri.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawerh.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\menu\\activity_home_drawerh.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawern.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\menu\\activity_home_drawern.xml"
+    },
+    {
+        "merged": "F:\\Android Projects\\BEProject\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "F:\\Android Projects\\BEProject\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    }
+]

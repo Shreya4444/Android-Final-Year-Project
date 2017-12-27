@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.technotalkative.beproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:exported="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity android:name="com.technotalkative.beproject.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.technotalkative.beproject.Education.Education"
+            android:label="Education"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Login"
+            android:label="Sign In/Sign Up"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Register"
+            android:label="Association"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Individual.Individual"
+            android:label="Individual"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.NGO.Ngo"
+            android:label="Ngo"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Hospital.Hospital"
+            android:label="Hospital"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Hospital.Hosp_HP"
+            android:label="Help provider"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Hospital.Hosp_UP"
+            android:label="Help Seeker"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Hospital.DetailActivity_hospital"
+            android:label="Details"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.technotalkative.beproject.Hospital.Choose_hospital" />
+        <activity
+            android:name="com.technotalkative.beproject.Hospital.List_hospital"
+            android:label="List"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Education.Edu_HP"
+            android:label="Help Provider"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Education.Edu_UP"
+            android:label="Help Seeker"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Education.DetailActivity_edu"
+            android:label="Details"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.technotalkative.beproject.Education.Choose_edu" />
+        <activity
+            android:name="com.technotalkative.beproject.Education.List_edu"
+            android:label="List"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.NGO.NGO_HP"
+            android:label="Help Provider"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.NGO.NGO_UP"
+            android:label="Help Seeker"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.NGO.DetailActivity_ngo"
+            android:label="Details"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.technotalkative.beproject.NGO.Choose_ngo" />
+        <activity
+            android:name="com.technotalkative.beproject.NGO.List_ngo"
+            android:label="List"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Individual.Indi_HP"
+            android:label="Help Provider"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Individual.Indi_UP"
+            android:label="Help Seeker"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Individual.DetailActivity_indi"
+            android:label="Details"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.technotalkative.beproject.Individual.Choose_indi" />
+        <activity
+            android:name="com.technotalkative.beproject.Individual.List_indi"
+            android:label="List"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.About"
+            android:label="List"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.technotalkative.beproject.Helpus"
+            android:label="List"
+            android:theme="@style/AppTheme" />
+
+        <service
+            android:name="net.gotev.uploadservice.UploadService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+    </application>
+
+</manifest>
